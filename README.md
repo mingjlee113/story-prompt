@@ -15,3 +15,16 @@ Write a command line application in any language that accepts a json string of k
 Write a second command line application that sends to STDOUT statistics about the stored records, including the maximum and minimum values for numerical inputs, the most common responses for string inputs, and anything else you think might be relevant.
 
 Instructions for installing and running your applications should be added to this README file.
+
+## How to run the programs
+
+The project has two main parts. One is storyGen.py, the other is statistics.py.
+
+1. Clone this repo
+2. cd into story-prompt
+3. python storyGen.py  '{ "NUMBER": "100", "UNIT_OF_MEASURE": "meters", "PLACE": "work", "ADJECTIVE": "black", "NOUN": "iPhone" }'
+4. python statistics.py
+
+
+
+

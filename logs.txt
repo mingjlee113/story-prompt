@@ -1,0 +1,3 @@
+{"ADJECTIVE": "black", "PLACE": "work", "UNIT_OF_MEASURE": "meters", "NUMBER": "100", "NOUN": "iPhone"}
+{"ADJECTIVE": "black", "PLACE": "work", "UNIT_OF_MEASURE": "meters", "NUMBER": "100", "NOUN": "iPhone"}
+{"ADJECTIVE": "black", "PLACE": "work", "UNIT_OF_MEASURE": "meters", "NUMBER": "100", "NOUN": "iPhone"}
