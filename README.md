@@ -20,10 +20,10 @@ Instructions for installing and running your applications should be added to thi
 
 The project has two main parts. One is storyGen.py, the other is statistics.py.
 
-1. Clone this repo
-2. cd into story-prompt
-3. python storyGen.py  '{ "NUMBER": "100", "UNIT_OF_MEASURE": "meters", "PLACE": "work", "ADJECTIVE": "black", "NOUN": "iPhone" }'
-4. python statistics.py
+    1. Clone this repo
+    2. cd into story-prompt
+    3. python storyGen.py  '{ "NUMBER": "100", "UNIT_OF_MEASURE": "meters", "PLACE": "work", "ADJECTIVE": "black", "NOUN": "iPhone" }'
+    4. python statistics.py
 
 
 
